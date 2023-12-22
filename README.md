@@ -4,5 +4,5 @@ Regarde mon compte Scratch :
    <a href="https://scratch.mit.edu/users/Linux-Scratcher" class="name">Linux-Scratcher</a></h5>
    </div>
 </center>
-<h5>en ce moment je m'ennui un peu car je me suis fais bannir de discord et j'ai des problèmes avec mon hébergeur HTML, donc j'ai beacoup de temp pour la collaboration.</h5>
+<h5>Dévelopeur blasé qui a perdu sont site et sont discord, qui s'ennui, et qui peut t'aider à faire un site... ou un jeu ... ou ceque tu veux !</h5></h5>
  
