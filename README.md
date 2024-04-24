@@ -2,6 +2,6 @@
 <h5>Developpeur très actif qui à un discord qui est gianni.officiel</h5></h5>
 Contactez-moi :
  <center> <h5> <a href="https://linux-scratcher.000webhostapp.com/contact"><img src="https://linux-scratcher.000webhostapp.com/logo.gif" title="logo" heght="42" width="42" ><h5>
-   <a href="https://linux-scratcher.000webhostapp.com/contact" class="name">contact</a></h5>
+   <a href="https://linux-scratcher.fr" class="name">contact</a></h5>
    </div>
 </center>
