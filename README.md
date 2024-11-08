@@ -4,8 +4,6 @@ Contactez-moi :
  <center>
    <a href="https://linux-scratcher.fr" class="name">contact</a></h5>
 
-<br><h5>Merci de visiter mon Github. Je travaille sur un réseau social nommé Quarko qui n'est pas terminé. Il sera open source sur Github.</h5>
-<br><h5>J'enseigne le hacking, n'hésitez vraiment pas à me demander de vous apprendre. Je suis un hacker grey hat.</h5>
   
    </div>
 </center>
