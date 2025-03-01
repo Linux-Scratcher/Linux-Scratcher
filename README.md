@@ -1,7 +1,7 @@
 
 # Linux-Scratcher
-
-## Languages ​​that I master
+Hello, I am a French who code.
+### Languages ​​that I master
  ![](image.svg)![](truc.svg) 
 
 
