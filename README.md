@@ -3,10 +3,11 @@
 <!--![Scratch logo S](https://github.com/Linux-Scratcher/Linux-Scratcher/assets/122288570/2eab72c7-9410-4f7f-821a-e7eda042f575)-->
 
 <h5>Developpeur très actif. Je fait des différents projets open source sur Github.</h5></h5>
-<p1>
-    <img src="image.svg" style="display: inline-block; margin: 0; padding: 0;" />
-    <img src="truc.svg" style="display: inline-block; margin: 0; padding: 0;" />
+<p1 style="font-size: 0;">
+    <img src="image.svg" />
+    <img src="truc.svg" />
 </p1>
+
 
 
 Mon site :
