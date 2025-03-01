@@ -1,20 +1,20 @@
 
 # Linux-Scratcher
-Hello, I am a French who code.
+I am a French guy who codes
 ### Languages ​​that I master
  ![](image.svg)![](truc.svg)![](huh.svg) 
 
 
 <!--![Scratch logo S](https://github.com/Linux-Scratcher/Linux-Scratcher/assets/122288570/2eab72c7-9410-4f7f-821a-e7eda042f575)-->
 
-<h5>Very active developer. I do various open source projects on Github.</h5></h5>
+<h5>A very active developer. I have various open source projects on GitHub</h5></h5>
 
 
 
 
 
 
-My website :
+Take a look on my website! :
  <center>
    <a href="https://linux-scratcher.fr" class="name">https://linux-scratcher.fr</a></h5>
 
