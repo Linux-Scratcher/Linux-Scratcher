@@ -1,9 +1,9 @@
 
 # Linux-Scratcher
-<p>
-  <img src="image.svg" width="100" style="margin:0; padding:0; border:0;"/>
-  <img src="truc.svg" width="100" style="margin:0; padding:0; border:0;"/>
-</p>
+
+
+|---------|---------|
+| ![](image.svg) | ![](truc.svg) |
 
 
 <!--![Scratch logo S](https://github.com/Linux-Scratcher/Linux-Scratcher/assets/122288570/2eab72c7-9410-4f7f-821a-e7eda042f575)-->
