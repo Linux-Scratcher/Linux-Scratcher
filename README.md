@@ -1,6 +1,10 @@
 
 # Linux-Scratcher
 I am a French guy who codes
+
+![Linux-Scratcher's Stats](https://github-readme-stats.vercel.app/api?username=Linux-Scratcher&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+
+
 ### Languages ​​that I master
  ![](image.svg)![](truc.svg)![](huh.svg)
 
@@ -26,4 +30,3 @@ Take a look on my website! :
 </center><br><br>
 
 
-![Linux-Scratcher's Stats](https://github-readme-stats.vercel.app/api?username=Linux-Scratcher&theme=jolly&show_icons=true&hide_border=true&count_private=true)
