@@ -20,7 +20,7 @@ Take a look on my website! :
 
   
    </div>
-</center>
+</center><br><br>
 
 
 ![Linux-Scratcher's Stats](https://github-readme-stats.vercel.app/api?username=Linux-Scratcher&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
