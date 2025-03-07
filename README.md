@@ -3,7 +3,7 @@
 I am a French guy who codes
 
 ![Linux-Scratcher's Stats](https://github-readme-stats.vercel.app/api?username=Linux-Scratcher&theme=jolly&show_icons=true&hide_border=true&count_private=true)
-
+![Linux-Scratcher's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linux-Scratcher&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ### Languages ​​that I master
  ![](image.svg)![](truc.svg)![](huh.svg)
