@@ -10,7 +10,7 @@ Hello! I am a french dev!<br><br>Take a look on my website! :
 ![Linux-Scratcher's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linux-Scratcher&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ### Languages ​​that I master
- ![](image.svg)![](truc.svg)![](huh.svg)[![Sqlite]
+ ![](image.svg)![](truc.svg)![](huh.svg)
 							
 
  ### Other things I master
