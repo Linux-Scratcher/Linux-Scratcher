@@ -1,6 +1,8 @@
 
 # Linux-Scratcher
-Hello! I am a french dev!<br><br>
+Hello! I am a french dev!<br><br>Take a look on my website! :
+ <center>
+   <a href="https://linux-scratcher.fr" class="name">https://linux-scratcher.fr</a></h5></center>
 ![Linux-Scratcher's Stats](https://github-readme-stats.vercel.app/api?username=Linux-Scratcher&theme=jolly&show_icons=true&hide_border=true&count_private=true)
 <br>
 ![Linux-Scratcher's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Linux-Scratcher&theme=prussian&show_icons=true&hide_border=true&layout=compact)
@@ -21,9 +23,7 @@ Hello! I am a french dev!<br><br>
 
 
 
-Take a look on my website! :
- <center>
-   <a href="https://linux-scratcher.fr" class="name">https://linux-scratcher.fr</a></h5>
+
 
   
    </div>
