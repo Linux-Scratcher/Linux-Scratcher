@@ -2,7 +2,7 @@
 # Linux-Scratcher
 Hello! I am a french dev!<br><br>Take a look on my website! :
  <center>
-   <a href="https://linux-scratcher.fr" class="name">https://linux-scratcher.fr</a></h5></center><br>
+   <a href="https://linux-scratcher.fr" class="name">https://linux-scratcher.fr</a></h5></center><br><br>
 
 
 ![Linux-Scratcher's Stats](https://github-readme-stats.vercel.app/api?username=Linux-Scratcher&theme=jolly&show_icons=true&hide_border=true&count_private=true)
