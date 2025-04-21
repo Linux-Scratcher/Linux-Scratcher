@@ -23,10 +23,6 @@ Hello! I am a french dev!<br><br>Take a look on my website! :
 
 
 
-
-
-
-
   
    </div>
 </center><br><br>
