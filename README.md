@@ -1,5 +1,4 @@
-
-# Linux-Scratcher
+# ✟Gianni✞
 Hello! I am a french dev!<br><br>Take a look on my website! :
  <center>
    <a href="https://linux-scratcher.fr" class="name">https://linux-scratcher.fr</a></h5></center><br><br>
